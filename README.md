@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Alish007-tech
-- 👀 I’m interested in coding, any forms of sports, Videography
-- 🌱 I’m currently learning HTML, CSS
-- 💞️ I’m looking to collaborate on ...
-- 📫 yo can reach me on www.instagram.com/alish_ssh
+
 
 <!---
 Alish007-tech/Alish007-tech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
